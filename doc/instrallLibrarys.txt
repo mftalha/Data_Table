@@ -1,0 +1,1 @@
+- flutter pub add data_table_2  ==> tablo kütüphanesi.
